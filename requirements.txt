@@ -6,4 +6,9 @@ category_encoders
 dill
 #catboost
 xgboost
+mlflow
+optuna
+posthog
+gradio
+
 #-e .
