@@ -25,7 +25,7 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           context: .
-          file: ./Dockerfile  # change if your Dockerfile has a different name or path
+          file: ./Dockerfile  # change if your Dockerfile has a different name or path.
           push: true
           tags: |
             muhammedsuraj/glaucoma-fastapi:latest
