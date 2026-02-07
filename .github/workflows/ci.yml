@@ -28,3 +28,4 @@ jobs:
           file: ./dockerfile  # change if your Dockerfile has a different name or path
           push: true
           tags: muhammedsuraj/glaucoma-fastapi:latest
+                muhammedsuraj/glaucoma-fastapi:{{ github.sha }}
