@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Projects\glaucoma_classification_model/mlruns/545927368220268491/d99a924e2fd44e429befc632d37faa2f/artifacts
+end_time: 1770346561511
+entry_point_name: ''
+experiment_id: '545927368220268491'
+lifecycle_stage: active
+run_id: d99a924e2fd44e429befc632d37faa2f
+run_name: selective-smelt-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770346543728
+status: 3
+tags: []
+user_id: Admin
